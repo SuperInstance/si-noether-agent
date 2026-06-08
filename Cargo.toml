@@ -1,0 +1,7 @@
+[package]
+name = "si-noether-agent"
+version = "0.1.0"
+edition = "2021"
+description = "Noether's theorem for agent systems — symmetries yield conservation laws"
+
+[dependencies]
